@@ -27,7 +27,7 @@ IDE: Visual Studio Code.
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Screenshot 2023-11-25 133637](https://github.com/YUGABHARATHI10/AI-ENHANCED-THREE-DIMENSIONAL-TSHIRT-WEBSITE-/blob/main/Screenshot%202024-03-19%20131321.png)
 
 
 ## Output
@@ -35,21 +35,27 @@ IDE: Visual Studio Code.
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![Screenshot 2023-11-25 134037](https://github.com/YUGABHARATHI10/AI-ENHANCED-THREE-DIMENSIONAL-TSHIRT-WEBSITE-/blob/main/canvas%20(1).png)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![Screenshot 2023-11-25 134253](https://github.com/YUGABHARATHI10/AI-ENHANCED-THREE-DIMENSIONAL-TSHIRT-WEBSITE-/blob/main/canvas%20(2).png)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The conclusion of an AI-enhanced 3D T-shirt website would highlight the significant
+advancements in personalized online shopping experiences. 
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+
+
+1. O'Connell L.: Size of the global apparel market in
+2015 and 2017, Available from
+https://www.statista.com/statistics/279735/globalapparel-market-size-by-region/ Accessed: 12. Nov.
+2019.
+2. FashionUnited, "Global fashion industry statistics -
+International apparel," [Online]. Available from:
+https://fashionunited.com/global-fashion-industrystatistics/#tab2 Accessed: 8. Nov. 2019.
